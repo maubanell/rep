@@ -25,4 +25,7 @@ public class Cercle{
 			return false;
 		}
 	}
+        public static void main(String[] args) {
+            Cercle rodona = new Cercle(3,4);
+        }
 }
